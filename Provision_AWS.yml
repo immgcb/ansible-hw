@@ -1,0 +1,8 @@
+---
+
+# Playbook utilized from course material.
+# https://www.opentlc.com/labs/tmp/ansible_advanced/05_Cloud_Infrastructure/05_Cloud_Infrastructure_Solution_Lab.html
+# Playbooks located at bottom of course material:
+# - https://github.com/prakhar1985/good-ansible/blob/master/3tier-good/
+
+# In the instance that this was actually used, this would be used to order the environment.
