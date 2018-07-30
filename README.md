@@ -15,10 +15,10 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>MG, Chandra Babu</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>MG, Chandra Babu</o:LastAuthor>
-  <o:Revision>2</o:Revision>
+  <o:Revision>4</o:Revision>
   <o:TotalTime>1</o:TotalTime>
   <o:Created>2018-07-30T09:36:00Z</o:Created>
-  <o:LastSaved>2018-07-30T09:37:00Z</o:LastSaved>
+  <o:LastSaved>2018-07-30T09:38:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
   <o:Words>77</o:Words>
   <o:Characters>442</o:Characters>
@@ -756,7 +756,8 @@ ansible-<span class=SpellE>hw</span> <o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
-<p>Basic Requirements<o:p></o:p></p>
+<p><b style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt'>Basic
+Requirements<o:p></o:p></span></b></p>
 
 <p>&#8226; GitHub repository &#8211; My git repository - <a
 href="https://github.com/immgcb/ansible-hw">https://github.com/immgcb/ansible-hw</a><o:p></o:p></p>
