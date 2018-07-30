@@ -15,16 +15,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>MG, Chandra Babu</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>MG, Chandra Babu</o:LastAuthor>
-  <o:Revision>11</o:Revision>
-  <o:TotalTime>5</o:TotalTime>
+  <o:Revision>16</o:Revision>
+  <o:TotalTime>10</o:TotalTime>
   <o:Created>2018-07-30T09:36:00Z</o:Created>
-  <o:LastSaved>2018-07-30T09:43:00Z</o:LastSaved>
+  <o:LastSaved>2018-07-30T09:48:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
   <o:Words>134</o:Words>
-  <o:Characters>766</o:Characters>
+  <o:Characters>764</o:Characters>
   <o:Lines>6</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>899</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>897</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -667,6 +667,13 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	mso-generic-font-family:swiss;
 	mso-font-pitch:variable;
 	mso-font-signature:-536870145 1073786111 1 0 415 0;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520084737 -1073683329 41 0 479 0;}
  /* Style Definitions */
  p.MsoNormal, li.MsoNormal, div.MsoNormal
 	{mso-style-unhide:no;
@@ -717,6 +724,17 @@ p
 	font-size:12.0pt;
 	font-family:"Times New Roman",serif;
 	mso-fareast-font-family:"Times New Roman";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
 p.msonormal0, li.msonormal0, div.msonormal0
 	{mso-style-name:msonormal;
 	mso-style-unhide:no;
@@ -738,6 +756,21 @@ span.Heading2Char
 	mso-ansi-font-size:18.0pt;
 	mso-bidi-font-size:18.0pt;
 	font-weight:bold;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Balloon Text";
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;
+	mso-ascii-font-family:"Segoe UI";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:"Segoe UI";
+	mso-bidi-font-family:"Segoe UI";}
 span.SpellE
 	{mso-style-name:"";
 	mso-spl-e:yes;}
@@ -968,8 +1001,12 @@ Deployed this based on our - 06 01 HA Tower Deployment Solution Lab<o:p></o:p></
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 mso-outline-level:2'><b><span style='font-size:18.0pt;font-family:"Calibri",sans-serif;
 mso-ascii-theme-font:minor-latin;mso-fareast-font-family:"Times New Roman";
-mso-hansi-theme-font:minor-latin'>Provision QA Environment (including smoke
-test)<o:p></o:p></span></b></p>
+mso-hansi-theme-font:minor-latin'>Provision QA Environment (</span></b><b
+style='mso-bidi-font-weight:normal'><span style='font-size:18.0pt;font-family:
+"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
+minor-latin'>Smoke test included</span></b><b><span style='font-size:18.0pt;
+font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+"Times New Roman";mso-hansi-theme-font:minor-latin'>)<o:p></o:p></span></b></p>
 
 <ul type=disc>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
@@ -998,8 +1035,8 @@ test)<o:p></o:p></span></b></p>
 </ul>
 
 <h2><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
-mso-hansi-theme-font:minor-latin'>Provision Production Environment (including
-smoke test)<o:p></o:p></span></h2>
+mso-hansi-theme-font:minor-latin'>Provision Production Environment (Smoke test
+included)<o:p></o:p></span></h2>
 
 <ul type=disc>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
