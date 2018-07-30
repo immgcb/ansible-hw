@@ -1,0 +1,20 @@
+# Place openstack pem file on tower machine
+#- hosts: tower 
+- hosts: localhost
+  become: false
+  gather_facts: false
+  tasks:
+    - name: Fetch the openstack pem file
+      get_url:
+        url: "{{ openstack_pem_download }}"
+        dest: /var/lib/awx/.ssh
+        mode: 0400
+      ignore_errors: true
+    - name: Create ansible.cfg file
+      copy:
+        src: tower_ansible.cfg
+        dest: /var/lib/awx/ansible.cfg
+    - name: Create ssh config file
+      template:
+        src: jump.cfg.j2
+        dest: /var/lib/awx/.ssh/jump.cfg
