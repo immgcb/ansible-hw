@@ -15,16 +15,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>MG, Chandra Babu</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>MG, Chandra Babu</o:LastAuthor>
-  <o:Revision>4</o:Revision>
-  <o:TotalTime>1</o:TotalTime>
+  <o:Revision>7</o:Revision>
+  <o:TotalTime>4</o:TotalTime>
   <o:Created>2018-07-30T09:36:00Z</o:Created>
-  <o:LastSaved>2018-07-30T09:38:00Z</o:LastSaved>
+  <o:LastSaved>2018-07-30T09:41:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>77</o:Words>
-  <o:Characters>442</o:Characters>
-  <o:Lines>3</o:Lines>
+  <o:Words>84</o:Words>
+  <o:Characters>482</o:Characters>
+  <o:Lines>4</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>518</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>565</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -649,10 +649,17 @@ xmlns="http://www.w3.org/TR/REC-html40">
  @font-face
 	{font-family:"Cambria Math";
 	panose-1:2 4 5 3 5 4 6 3 2 4;
-	mso-font-charset:1;
+	mso-font-charset:0;
 	mso-generic-font-family:roman;
 	mso-font-pitch:variable;
-	mso-font-signature:0 0 0 0 0 0;}
+	mso-font-signature:-536870145 1107305727 0 0 415 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1073786111 1 0 415 0;}
  /* Style Definitions */
  p.MsoNormal, li.MsoNormal, div.MsoNormal
 	{mso-style-unhide:no;
@@ -665,6 +672,20 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-family:"Times New Roman",serif;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:minor-fareast;}
+h2
+	{mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 2 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
 a:link, span.MsoHyperlink
 	{mso-style-noshow:yes;
 	mso-style-priority:99;
@@ -701,6 +722,15 @@ p.msonormal0, li.msonormal0, div.msonormal0
 	font-family:"Times New Roman",serif;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:minor-fareast;}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 2";
+	mso-ansi-font-size:18.0pt;
+	mso-bidi-font-size:18.0pt;
+	font-weight:bold;}
 span.SpellE
 	{mso-style-name:"";
 	mso-spl-e:yes;}
@@ -754,20 +784,28 @@ ansible-<span class=SpellE>hw</span> <o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+<p><b style='mso-bidi-font-weight:normal'><span style='font-size:18.0pt;
+font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
+minor-latin'>Basic Requirements<o:p></o:p></span></b></p>
 
-<p><b style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt'>Basic
-Requirements<o:p></o:p></span></b></p>
+<p><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+mso-hansi-theme-font:minor-latin'>&#8226; GitHub repository &#8211; My git
+repository - <a href="https://github.com/immgcb/ansible-hw">https://github.com/immgcb/ansible-hw</a><o:p></o:p></span></p>
 
-<p>&#8226; GitHub repository &#8211; My git repository - <a
-href="https://github.com/immgcb/ansible-hw">https://github.com/immgcb/ansible-hw</a><o:p></o:p></p>
+<p><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+mso-hansi-theme-font:minor-latin'>&#8226; Playbooks to deploy internal
+three-tier application &#8211; Our 05 Cloud Infrastructure Solution Lab- Use <a
+href="https://github.com/prakhar1985/good-ansible/blob/master/3tier-good/">https://github.com/prakhar1985/good-ansible/blob/master/3tier-good/</a><o:p></o:p></span></p>
 
-<p>&#8226; Playbooks to deploy internal three-tier application &#8211; Our 05
-Cloud Infrastructure Solution Lab- Use <a
-href="https://github.com/prakhar1985/good-ansible/blob/master/3tier-good/">https://github.com/prakhar1985/good-ansible/blob/master/3tier-good/</a><o:p></o:p></p>
+<p><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+mso-hansi-theme-font:minor-latin'>&#8226; Install HA Ansible Tower &#8211;
+Deployed this based on our - 06 01 HA Tower Deployment Solution Lab<o:p></o:p></span></p>
 
-<p>&#8226; Install HA Ansible Tower &#8211; Deployed this based on our - 06 01
-HA Tower Deployment Solution Lab<o:p></o:p></p>
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-outline-level:2'><b><span style='font-size:18.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:"Times New Roman";
+mso-hansi-theme-font:minor-latin'>Provision QA Environment (including smoke
+test)<o:p></o:p></span></b></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
