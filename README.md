@@ -15,16 +15,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>MG, Chandra Babu</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>MG, Chandra Babu</o:LastAuthor>
-  <o:Revision>17</o:Revision>
-  <o:TotalTime>12</o:TotalTime>
+  <o:Revision>21</o:Revision>
+  <o:TotalTime>32</o:TotalTime>
   <o:Created>2018-07-30T09:36:00Z</o:Created>
-  <o:LastSaved>2018-07-30T09:50:00Z</o:LastSaved>
+  <o:LastSaved>2018-07-30T10:10:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>134</o:Words>
-  <o:Characters>764</o:Characters>
-  <o:Lines>6</o:Lines>
+  <o:Words>118</o:Words>
+  <o:Characters>675</o:Characters>
+  <o:Lines>5</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>897</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>792</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -991,8 +991,8 @@ repository - <a href="https://github.com/immgcb/ansible-hw">https://github.com/i
 
 <p><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
 mso-hansi-theme-font:minor-latin'>&#8226; Playbooks to deploy internal
-three-tier application &#8211; Our 05 Cloud Infrastructure Solution Lab- Use <a
-href="https://github.com/prakhar1985/good-ansible/blob/master/3tier-good/">https://github.com/prakhar1985/good-ansible/blob/master/3tier-good/</a><o:p></o:p></span></p>
+three-tier application &#8211; Based on <span class=SpellE>uur</span> 05 Cloud
+Infrastructure Solution Lab<o:p></o:p></span></p>
 
 <p><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
 mso-hansi-theme-font:minor-latin'>&#8226; Install HA Ansible Tower &#8211;
@@ -1070,7 +1070,10 @@ font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-fo
      (runs if other tasks fail, destroys OpenStack instances)<o:p></o:p></span></li>
 </ul>
 
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:18.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
+minor-latin'>Design Ansible Tower Workflow Job Templates<o:p></o:p></span></b></p>
 
 </div>
 
