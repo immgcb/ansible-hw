@@ -15,16 +15,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>MG, Chandra Babu</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>MG, Chandra Babu</o:LastAuthor>
-  <o:Revision>7</o:Revision>
-  <o:TotalTime>4</o:TotalTime>
+  <o:Revision>11</o:Revision>
+  <o:TotalTime>5</o:TotalTime>
   <o:Created>2018-07-30T09:36:00Z</o:Created>
-  <o:LastSaved>2018-07-30T09:41:00Z</o:LastSaved>
+  <o:LastSaved>2018-07-30T09:43:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>84</o:Words>
-  <o:Characters>482</o:Characters>
-  <o:Lines>4</o:Lines>
+  <o:Words>134</o:Words>
+  <o:Characters>766</o:Characters>
+  <o:Lines>6</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>565</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>899</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -647,6 +647,13 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <!--
  /* Font Definitions */
  @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
 	{font-family:"Cambria Math";
 	panose-1:2 4 5 3 5 4 6 3 2 4;
 	mso-font-charset:0;
@@ -748,6 +755,163 @@ span.SpellE
 	mso-paper-source:0;}
 div.WordSection1
 	{page:WordSection1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:1574244424;
+	mso-list-template-ids:-1295644282;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1
+	{mso-list-id:2053384951;
+	mso-list-template-ids:-159752266;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
 -->
 </style>
 <!--[if gte mso 10]>
@@ -806,6 +970,62 @@ mso-outline-level:2'><b><span style='font-size:18.0pt;font-family:"Calibri",sans
 mso-ascii-theme-font:minor-latin;mso-fareast-font-family:"Times New Roman";
 mso-hansi-theme-font:minor-latin'>Provision QA Environment (including smoke
 test)<o:p></o:p></span></b></p>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:115%;mso-list:l1 level1 lfo1;tab-stops:list .5in'><span
+     class=SpellE><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+     minor-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
+     minor-latin;mso-bidi-font-family:"Courier New"'>Provision_OSP.yml</span></span><span
+     style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+     mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:minor-latin'><o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:115%;mso-list:l1 level1 lfo1;tab-stops:list .5in'><span
+     style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+     mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:minor-latin;
+     mso-bidi-font-family:"Courier New"'>Configure_3TA_OSP.yml</span><span
+     style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+     mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:minor-latin'>
+     (include smoke test task)<o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:115%;mso-list:l1 level1 lfo1;tab-stops:list .5in'><span
+     class=SpellE><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+     minor-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
+     minor-latin;mso-bidi-font-family:"Courier New"'>cleanup_OSP.yml</span></span><span
+     style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+     mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:minor-latin'>
+     (runs if other tasks fail, destroys OpenStack instances)<o:p></o:p></span></li>
+</ul>
+
+<h2><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+mso-hansi-theme-font:minor-latin'>Provision Production Environment (including
+smoke test)<o:p></o:p></span></h2>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:150%;mso-list:l0 level1 lfo2;tab-stops:list .5in'><span
+     class=SpellE><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+     minor-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
+     minor-latin;mso-bidi-font-family:"Courier New"'>Provision_AWS.yml</span></span><span
+     style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+     mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:minor-latin'><o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:150%;mso-list:l0 level1 lfo2;tab-stops:list .5in'><span
+     style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+     mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:minor-latin;
+     mso-bidi-font-family:"Courier New"'>Configure_3TA_AWS.yml</span><span
+     style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+     mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:minor-latin'>
+     (include smoke test task)<o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:150%;mso-list:l0 level1 lfo2;tab-stops:list .5in'><span
+     class=SpellE><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+     minor-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
+     minor-latin;mso-bidi-font-family:"Courier New"'>cleanup_AWS.yml</span></span><span
+     style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+     mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:minor-latin'>
+     (runs if other tasks fail, destroys OpenStack instances)<o:p></o:p></span></li>
+</ul>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
