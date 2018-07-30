@@ -15,10 +15,10 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>MG, Chandra Babu</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>MG, Chandra Babu</o:LastAuthor>
-  <o:Revision>16</o:Revision>
-  <o:TotalTime>10</o:TotalTime>
+  <o:Revision>17</o:Revision>
+  <o:TotalTime>12</o:TotalTime>
   <o:Created>2018-07-30T09:36:00Z</o:Created>
-  <o:LastSaved>2018-07-30T09:48:00Z</o:LastSaved>
+  <o:LastSaved>2018-07-30T09:50:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
   <o:Words>134</o:Words>
   <o:Characters>764</o:Characters>
@@ -1034,9 +1034,15 @@ font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-fo
      (runs if other tasks fail, destroys OpenStack instances)<o:p></o:p></span></li>
 </ul>
 
-<h2><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
-mso-hansi-theme-font:minor-latin'>Provision Production Environment (Smoke test
-included)<o:p></o:p></span></h2>
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-outline-level:2'><b><span style='font-size:18.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:"Times New Roman";
+mso-hansi-theme-font:minor-latin'>Provision Production Environment (</span></b><b
+style='mso-bidi-font-weight:normal'><span style='font-size:18.0pt;font-family:
+"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
+minor-latin'>Smoke test included</span></b><b><span style='font-size:18.0pt;
+font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+"Times New Roman";mso-hansi-theme-font:minor-latin'>)<o:p></o:p></span></b></p>
 
 <ul type=disc>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
