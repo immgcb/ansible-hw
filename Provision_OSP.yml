@@ -1,5 +1,5 @@
 ---
-- name: Provision 3 Tier OSP Install 
+- name: Provision Three Tier OSP Installion
   hosts: jumpbox
 #  become: yes
   roles:

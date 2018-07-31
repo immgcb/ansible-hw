@@ -1,5 +1,5 @@
 ---
-- name: Configure 3 Tier OSP Install 
+- name: Configure three Tier OSP Installation 
   hosts: jumpbox
 #  become: yes
   roles:
