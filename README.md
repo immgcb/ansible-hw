@@ -10,29 +10,21 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
 <link rel=File-List href="README_files/filelist.xml">
-<link rel=Edit-Time-Data href="README_files/editdata.mso">
-<!--[if !mso]>
-<style>
-v\:* {behavior:url(#default#VML);}
-o\:* {behavior:url(#default#VML);}
-w\:* {behavior:url(#default#VML);}
-.shape {behavior:url(#default#VML);}
-</style>
-<![endif]--><!--[if gte mso 9]><xml>
+<!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>MG, Chandra Babu</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>MG, Chandra Babu</o:LastAuthor>
-  <o:Revision>22</o:Revision>
-  <o:TotalTime>1627</o:TotalTime>
+  <o:Revision>23</o:Revision>
+  <o:TotalTime>1629</o:TotalTime>
   <o:Created>2018-07-30T09:36:00Z</o:Created>
-  <o:LastSaved>2018-08-01T07:46:00Z</o:LastSaved>
-  <o:Pages>4</o:Pages>
-  <o:Words>550</o:Words>
-  <o:Characters>3139</o:Characters>
-  <o:Lines>26</o:Lines>
-  <o:Paragraphs>7</o:Paragraphs>
-  <o:CharactersWithSpaces>3682</o:CharactersWithSpaces>
+  <o:LastSaved>2018-08-01T07:48:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>118</o:Words>
+  <o:Characters>675</o:Characters>
+  <o:Lines>5</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>792</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -676,13 +668,6 @@ w\:* {behavior:url(#default#VML);}
 	mso-font-pitch:variable;
 	mso-font-signature:-536870145 1073786111 1 0 415 0;}
 @font-face
-	{font-family:"Calibri Light";
-	panose-1:2 15 3 2 2 2 4 3 2 4;
-	mso-font-charset:0;
-	mso-generic-font-family:swiss;
-	mso-font-pitch:variable;
-	mso-font-signature:-1610611985 1073750139 0 0 415 0;}
-@font-face
 	{font-family:"Segoe UI";
 	panose-1:2 11 5 2 4 2 4 2 2 3;
 	mso-font-charset:0;
@@ -757,7 +742,8 @@ a:visited, span.MsoHyperlinkFollowed
 	text-decoration:underline;
 	text-underline:single;}
 p
-	{mso-style-priority:99;
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-margin-top-alt:auto;
 	margin-right:0in;
 	mso-margin-bottom-alt:auto;
@@ -766,15 +752,6 @@ p
 	font-size:12.0pt;
 	font-family:"Times New Roman",serif;
 	mso-fareast-font-family:"Times New Roman";}
-code
-	{mso-style-noshow:yes;
-	mso-style-priority:99;
-	font-family:"Courier New";
-	mso-ascii-font-family:"Courier New";
-	mso-fareast-font-family:Calibri;
-	mso-fareast-theme-font:minor-latin;
-	mso-hansi-font-family:"Courier New";
-	mso-bidi-font-family:"Courier New";}
 p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
 	{mso-style-noshow:yes;
 	mso-style-priority:99;
@@ -786,99 +763,6 @@ p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
 	font-family:"Segoe UI",sans-serif;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:minor-fareast;}
-p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
-	{mso-style-priority:34;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	margin-top:0in;
-	margin-right:0in;
-	margin-bottom:8.0pt;
-	margin-left:.5in;
-	mso-add-space:auto;
-	line-height:107%;
-	mso-pagination:widow-orphan;
-	font-size:11.0pt;
-	font-family:"Calibri",sans-serif;
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:Calibri;
-	mso-fareast-theme-font:minor-latin;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	mso-ansi-language:EN-SG;}
-p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
-	{mso-style-priority:34;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-type:export-only;
-	margin-top:0in;
-	margin-right:0in;
-	margin-bottom:0in;
-	margin-left:.5in;
-	margin-bottom:.0001pt;
-	mso-add-space:auto;
-	line-height:107%;
-	mso-pagination:widow-orphan;
-	font-size:11.0pt;
-	font-family:"Calibri",sans-serif;
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:Calibri;
-	mso-fareast-theme-font:minor-latin;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	mso-ansi-language:EN-SG;}
-p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
-	{mso-style-priority:34;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-type:export-only;
-	margin-top:0in;
-	margin-right:0in;
-	margin-bottom:0in;
-	margin-left:.5in;
-	margin-bottom:.0001pt;
-	mso-add-space:auto;
-	line-height:107%;
-	mso-pagination:widow-orphan;
-	font-size:11.0pt;
-	font-family:"Calibri",sans-serif;
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:Calibri;
-	mso-fareast-theme-font:minor-latin;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	mso-ansi-language:EN-SG;}
-p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
-	{mso-style-priority:34;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-type:export-only;
-	margin-top:0in;
-	margin-right:0in;
-	margin-bottom:8.0pt;
-	margin-left:.5in;
-	mso-add-space:auto;
-	line-height:107%;
-	mso-pagination:widow-orphan;
-	font-size:11.0pt;
-	font-family:"Calibri",sans-serif;
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:Calibri;
-	mso-fareast-theme-font:minor-latin;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	mso-ansi-language:EN-SG;}
 p.msonormal0, li.msonormal0, div.msonormal0
 	{mso-style-name:msonormal;
 	mso-style-unhide:no;
@@ -939,9 +823,6 @@ span.Heading3Char
 span.SpellE
 	{mso-style-name:"";
 	mso-spl-e:yes;}
-span.GramE
-	{mso-style-name:"";
-	mso-gram-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -958,8 +839,8 @@ div.WordSection1
 	{page:WordSection1;}
  /* List Definitions */
  @list l0
-	{mso-list-id:179324372;
-	mso-list-template-ids:576733334;}
+	{mso-list-id:1574244424;
+	mso-list-template-ids:-1295644282;}
 @list l0:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -1034,8 +915,8 @@ div.WordSection1
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
 @list l1
-	{mso-list-id:696778910;
-	mso-list-template-ids:-1822018026;}
+	{mso-list-id:2053384951;
+	mso-list-template-ids:-159752266;}
 @list l1:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -1046,12 +927,13 @@ div.WordSection1
 	font-family:Symbol;}
 @list l1:level2
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0D8;
+	mso-level-text:o;
 	mso-level-tab-stop:1.0in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
 @list l1:level3
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
@@ -1108,773 +990,6 @@ div.WordSection1
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l2
-	{mso-list-id:1064648187;
-	mso-list-template-ids:42656562;}
-@list l2:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
-@list l2:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:1.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:"Courier New";
-	mso-bidi-font-family:"Times New Roman";}
-@list l2:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:1.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l2:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:2.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l2:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:2.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l2:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:3.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l2:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:3.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l2:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:4.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l2:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:4.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l3
-	{mso-list-id:1432505523;
-	mso-list-template-ids:1649169678;}
-@list l3:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
-@list l3:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:1.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:"Courier New";
-	mso-bidi-font-family:"Times New Roman";}
-@list l3:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:1.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l3:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:2.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l3:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:2.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l3:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:3.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l3:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:3.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l3:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:4.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l3:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:4.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l4
-	{mso-list-id:1574244424;
-	mso-list-template-ids:-1295644282;}
-@list l4:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
-@list l4:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:1.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:"Courier New";
-	mso-bidi-font-family:"Times New Roman";}
-@list l4:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:1.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l4:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:2.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l4:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:2.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l4:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:3.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l4:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:3.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l4:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:4.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l4:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:4.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l5
-	{mso-list-id:1623414268;
-	mso-list-template-ids:-828193988;}
-@list l5:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
-@list l5:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:1.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:"Courier New";
-	mso-bidi-font-family:"Times New Roman";}
-@list l5:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:1.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l5:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:2.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l5:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:2.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l5:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:3.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l5:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:3.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l5:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:4.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l5:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:4.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l6
-	{mso-list-id:1750496135;
-	mso-list-template-ids:-1541736252;}
-@list l6:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
-@list l6:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:1.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:"Courier New";
-	mso-bidi-font-family:"Times New Roman";}
-@list l6:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:1.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l6:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:2.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l6:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:2.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l6:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:3.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l6:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:3.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l6:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:4.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l6:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:4.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l7
-	{mso-list-id:1801995426;
-	mso-list-template-ids:-1691824928;}
-@list l7:level2
-	{mso-level-number-format:alpha-lower;
-	mso-level-tab-stop:1.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l8
-	{mso-list-id:1872449054;
-	mso-list-template-ids:728031314;}
-@list l8:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
-@list l8:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0D8;
-	mso-level-tab-stop:1.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l8:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:1.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l8:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:2.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l8:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:2.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l8:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:3.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l8:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:3.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l8:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:4.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l8:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:4.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l9
-	{mso-list-id:1985545733;
-	mso-list-template-ids:530228330;}
-@list l9:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
-@list l9:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:1.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:"Courier New";
-	mso-bidi-font-family:"Times New Roman";}
-@list l9:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:1.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l9:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:2.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l9:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:2.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l9:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:3.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l9:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:3.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l9:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:4.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l9:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:4.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l10
-	{mso-list-id:2022316795;
-	mso-list-template-ids:-1594687752;}
-@list l10:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
-@list l10:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:1.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:"Courier New";
-	mso-bidi-font-family:"Times New Roman";}
-@list l10:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:1.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l10:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:2.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l10:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:2.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l10:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:3.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l10:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:3.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l10:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:4.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l10:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:4.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l11
-	{mso-list-id:2053384951;
-	mso-list-template-ids:-159752266;}
-@list l11:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
-@list l11:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:1.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:"Courier New";
-	mso-bidi-font-family:"Times New Roman";}
-@list l11:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:1.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l11:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:2.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l11:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:2.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l11:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:3.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l11:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:3.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l11:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:4.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l11:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:4.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l12
-	{mso-list-id:2111581858;
-	mso-list-template-ids:1631070566;}
-@list l12:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
-@list l12:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:1.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:"Courier New";
-	mso-bidi-font-family:"Times New Roman";}
-@list l12:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:1.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l12:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:2.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l12:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:2.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l12:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:3.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l12:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:3.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l12:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:4.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l12:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:4.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
 ol
 	{margin-bottom:0in;}
 ul
@@ -1910,370 +1025,104 @@ ul
 
 <div class=WordSection1>
 
-<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
-normal'><span style='font-size:18.0pt'>Ansible Homework Assignment<o:p></o:p></span></b></p>
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>#
+ansible-<span class=SpellE>hw</span> <o:p></o:p></span></p>
 
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:18.0pt'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
-<p><b style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;
+<p><b style='mso-bidi-font-weight:normal'><span style='font-size:18.0pt;
 font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
-minor-latin'>Basic Requirements <o:p></o:p></span></b></p>
-
-<ul type=disc>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l9 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
-     "Times New Roman"'>GitHub repository - &nbsp;</span><a
-     href="https://github.com/immgcb/ansible-hw"><span style='mso-fareast-font-family:
-     "Times New Roman"'>https://github.com/immgcb/ansible-hw</span></a><span
-     style='mso-fareast-font-family:"Times New Roman"'><br style='mso-special-character:
-     line-break'>
-     <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
-     <![endif]><o:p></o:p></span></li>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l9 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
-     "Times New Roman"'>Playbooks to deploy internal three-tier application
-     &#8211; Our 05 Cloud Infrastructure Solution Lab- Use </span><a
-     href="https://github.com/prakhar1985/good-ansible/blob/master/3tier-good/"><span
-     style='mso-fareast-font-family:"Times New Roman"'>https://github.com/prakhar1985/good-ansible/blob/master/3tier-good/</span></a><span
-     style='mso-fareast-font-family:"Times New Roman"'> <span
-     style='mso-spacerun:yes'>&nbsp;</span>- using </span>Configure_3TA_AWS.yml
-     &amp; Configure_3TA_OSP.yml<span style='mso-fareast-font-family:"Times New Roman"'><br
-     style='mso-special-character:line-break'>
-     <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
-     <![endif]><o:p></o:p></span></li>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l9 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
-     "Times New Roman"'>Install HA Ansible Tower &#8211; Deployed this based on
-     our - 06 01 HA Tower Deployment Solution Lab<o:p></o:p></span></li>
-</ul>
-
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-margin-left:.25in'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype
- id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
- path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
- <v:stroke joinstyle="miter"/>
- <v:formulas>
-  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-  <v:f eqn="sum @0 1 0"/>
-  <v:f eqn="sum 0 0 @1"/>
-  <v:f eqn="prod @2 1 2"/>
-  <v:f eqn="prod @3 21600 pixelWidth"/>
-  <v:f eqn="prod @3 21600 pixelHeight"/>
-  <v:f eqn="sum @0 0 1"/>
-  <v:f eqn="prod @6 1 2"/>
-  <v:f eqn="prod @7 21600 pixelWidth"/>
-  <v:f eqn="sum @8 21600 0"/>
-  <v:f eqn="prod @7 21600 pixelHeight"/>
-  <v:f eqn="sum @10 21600 0"/>
- </v:formulas>
- <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
- <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="Picture_x0020_10" o:spid="_x0000_i1026" type="#_x0000_t75"
- style='width:437.25pt;height:237pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="README_files/image001.png" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img border=0 width=583 height=316
-src="README_files/image002.jpg" v:shapes="Picture_x0020_10"><![endif]></span><span
-style='mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+minor-latin'>Basic Requirements<o:p></o:p></span></b></p>
 
 <p><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
-mso-hansi-theme-font:minor-latin'><o:p>&nbsp;</o:p></span></p>
+mso-hansi-theme-font:minor-latin'>&#8226; GitHub repository &#8211; My git
+repository - <a href="https://github.com/immgcb/ansible-hw">https://github.com/immgcb/ansible-hw</a><o:p></o:p></span></p>
 
-<p><b style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;
-font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
-minor-latin'>Provision QA Environment (including smoke test)<o:p></o:p></span></b></p>
+<p><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+mso-hansi-theme-font:minor-latin'>&#8226; Playbooks to deploy internal
+three-tier application &#8211; Based on <span class=SpellE>uur</span> 05 Cloud
+Infrastructure Solution Lab<o:p></o:p></span></p>
 
-<p style='line-height:150%'><span style='font-family:"Calibri",sans-serif;
-mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin'>The QA environment,
-running Red Hat OpenStack Platform 10, is hidden behind the firewall. <o:p></o:p></span></p>
-
-<p style='line-height:150%'><span class=SpellE>Jumpbox</span>: <span
-style='mso-bidi-font-family:"Courier New"'>workstation-${GUID<span class=GramE>}.rhpds.opentlc.com</span>
-(</span><span style='font-size:9.0pt;line-height:150%;color:black'>workstation-4b79.rhpds.opentlc.com</span><span
-style='mso-bidi-font-family:"Courier New"'>)</span> <span style='font-size:
-11.0pt;line-height:150%'><br>
-</span><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
-mso-hansi-theme-font:minor-latin'>Suggested Playbooks already </span><span
-lang=EN-SG style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
-mso-hansi-theme-font:minor-latin;mso-ansi-language:EN-SG'>committed to my
-repository : </span><a href="https://github.com/immgcb/ansible-hw"><span
-lang=EN-SG style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
-mso-hansi-theme-font:minor-latin;mso-ansi-language:EN-SG'>https://github.com/immgcb/ansible-hw</span></a><a
-name="_Hlk520735879"><o:p></o:p></a></p>
-
-<span style='mso-bookmark:_Hlk520735879'></span>
-
-<ul type=disc>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l11 level1 lfo1;tab-stops:list .5in'><span class=SpellE><span
-     style='mso-fareast-font-family:"Times New Roman"'>Provision_OSP.yml</span></span><span
-     style='mso-fareast-font-family:"Times New Roman"'> - Three Tier
-     Application is provision with OpenStack infrastructure and instances.<o:p></o:p></span></li>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l11 level1 lfo1;tab-stops:list .5in'><span style='mso-fareast-font-family:
-     "Times New Roman"'>Configure_3TA_OSP.yml: <span
-     style='mso-spacerun:yes'>&nbsp;</span>This playbook can be <span
-     class=GramE>deploy</span> and also do the configuration of the three Tier
-     Application.<br style='mso-special-character:line-break'>
-     <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
-     <![endif]><o:p></o:p></span></li>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l11 level1 lfo1;tab-stops:list .5in'><span class=SpellE><span
-     style='mso-fareast-font-family:"Times New Roman"'>Cleanup_OSP.yml</span></span><span
-     style='mso-fareast-font-family:"Times New Roman"'>: This playbook can
-     cleanup OpenStack instances that been used in three Tier Application<o:p></o:p></span></li>
-</ul>
-
-<h3 style='margin-left:.5in'><span class=SpellE>Provision_OSP.yml</span><o:p></o:p></h3>
-
-<ul type=disc>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l6 level1 lfo7;tab-stops:list .5in'>This playbook does have all
-     the necessary information <span class=GramE>in order to</span> create infrastructure
-     on OpenStack for Three Tier Application <o:p></o:p></li>
-</ul>
+<p><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+mso-hansi-theme-font:minor-latin'>&#8226; Install HA Ansible Tower &#8211;
+Deployed this based on our - 06 01 HA Tower Deployment Solution Lab<o:p></o:p></span></p>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-margin-left:1.0in;text-indent:-.25in;mso-list:l1 level2 lfo12;tab-stops:list 1.0in'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Wingdings;
-mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings'><span
-style='mso-list:Ignore'>&Oslash;<span style='font:7.0pt "Times New Roman"'>&nbsp;
-</span></span></span><![endif]>OSP Networks<o:p></o:p></p>
-
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-margin-left:1.0in;text-indent:-.25in;mso-list:l1 level2 lfo12;tab-stops:list 1.0in'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Wingdings;
-mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings'><span
-style='mso-list:Ignore'>&Oslash;<span style='font:7.0pt "Times New Roman"'>&nbsp;
-</span></span></span><![endif]>OSP Keypair<o:p></o:p></p>
-
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-margin-left:1.0in;text-indent:-.25in;mso-list:l1 level2 lfo12;tab-stops:list 1.0in'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Wingdings;
-mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings'><span
-style='mso-list:Ignore'>&Oslash;<span style='font:7.0pt "Times New Roman"'>&nbsp;
-</span></span></span><![endif]>OSP Security Groups<o:p></o:p></p>
-
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-margin-left:1.0in;text-indent:-.25in;mso-list:l1 level2 lfo12;tab-stops:list 1.0in'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Wingdings;
-mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings'><span
-style='mso-list:Ignore'>&Oslash;<span style='font:7.0pt "Times New Roman"'>&nbsp;
-</span></span></span><![endif]><span class=GramE>OSP <span
-style='mso-spacerun:yes'>&nbsp;</span>Flavor</span><o:p></o:p></p>
-
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-margin-left:1.0in;text-indent:-.25in;mso-list:l1 level2 lfo12;tab-stops:list 1.0in'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Wingdings;
-mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings'><span
-style='mso-list:Ignore'>&Oslash;<span style='font:7.0pt "Times New Roman"'>&nbsp;
-</span></span></span><![endif]>OSP Instances<o:p></o:p></p>
-
-<h3 style='margin-left:.5in'>Configure_3TA_OSP.yml<o:p></o:p></h3>
-
-<ul type=disc>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l12 level1 lfo8;tab-stops:list .5in'>This playbook uses in-memory
-     dynamic inventory to provision 3 Tier Application:<o:p></o:p></li>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l12 level1 lfo8;tab-stops:list .5in'><span class=SpellE>HAProxy</span>
-     on the frontend server to load balance between application servers.<o:p></o:p></li>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l12 level1 lfo8;tab-stops:list .5in'>Application servers have
-     Tomcat.<o:p></o:p></li>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l12 level1 lfo8;tab-stops:list .5in'>Database server is using
-     PostgreSQL.<o:p></o:p></li>
-</ul>
-
-<h3 style='margin-left:.5in'><span class=SpellE>Cleanup_OSP.yml</span><o:p></o:p></h3>
-
-<ul type=disc>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l2 level1 lfo9;tab-stops:list .5in'>This playbook can clean up
-     the environment that has been created by the above two playbooks. <o:p></o:p></li>
-</ul>
-
-<p><b style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;
-font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
-minor-latin'>Provision Production Environment (including smoke test)<o:p></o:p></span></b></p>
-
-<p class=MsoNormal style='line-height:150%'><span style='mso-fareast-font-family:
-"Times New Roman"'>Suggested Playbooks already in </span>committed to my repository:
-<a href="https://github.com/immgcb/ansible-hw">https://github.com/immgcb/ansible-hw</a><span
-style='mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
-
-<ul type=disc>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l10 level1 lfo10;tab-stops:list .5in'><span class=SpellE>Provision_AWS.yml</span>:
-     <span style='mso-spacerun:yes'>&nbsp;</span>Can provision the OpenStack
-     infrastructure &amp; its instances that require for the Three Tier
-     Application<o:p></o:p></li>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l10 level1 lfo10;tab-stops:list .5in'>Configure_3TA_AWS.yml: Can do
-     the deployment and configuration of Three Tier Application.<o:p></o:p></li>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     line-height:150%;mso-list:l10 level1 lfo10;tab-stops:list .5in'><span
-     class=SpellE><span style='mso-fareast-font-family:"Times New Roman";
-     mso-bidi-font-family:"Courier New"'>cleanup_AWS.yml</span></span><span
-     style='mso-fareast-font-family:"Times New Roman"'>: If the above two <span
-     class=GramE>playbook</span> fail, this can clean up the <span
-     class=SpellE>openstack</span> instances.<o:p></o:p></span></li>
-</ul>
-
-<h3 style='margin-left:.5in'><span class=SpellE>Provision_AWS.yml</span><o:p></o:p></h3>
-
-<ul type=disc>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l6 level1 lfo7;tab-stops:list .5in'>This playbook does have all
-     the necessary information <span class=GramE>in order to</span> create infrastructure
-     on OpenStack for AWS Production Three Tier Application <o:p></o:p></li>
-</ul>
-
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-margin-left:.5in'><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-margin-left:.5in'><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-margin-left:.5in'><o:p>&nbsp;</o:p></p>
-
-<h3 style='margin-left:.5in'>Configure_3TA_AWS.yml<o:p></o:p></h3>
-
-<ul type=disc>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l3 level1 lfo11;tab-stops:list .5in'>AWS EC2 dynamic inventory
-     feature <span class=GramE>in order to</span> provision Three Tier
-     Application by using this playbook<o:p></o:p></li>
-</ul>
-
-<p class=MsoListParagraphCxSpFirst style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
-auto;margin-left:1.0in;mso-add-space:auto;text-indent:-.25in;line-height:normal;
-mso-list:l8 level2 lfo13;tab-stops:list 1.0in'><![if !supportLists]><span
-lang=EN-SG style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Wingdings;
-mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings'><span
-style='mso-list:Ignore'>&Oslash;<span style='font:7.0pt "Times New Roman"'>&nbsp;
-</span></span></span><![endif]><span lang=EN-SG>Those application servers load
-balanced with the HA Proxy frontend server<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
-auto;margin-left:1.0in;mso-add-space:auto;text-indent:-.25in;line-height:normal;
-mso-list:l8 level2 lfo13;tab-stops:list 1.0in'><![if !supportLists]><span
-lang=EN-SG style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Wingdings;
-mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings'><span
-style='mso-list:Ignore'>&Oslash;<span style='font:7.0pt "Times New Roman"'>&nbsp;
-</span></span></span><![endif]><span lang=EN-SG>The application servers are on Tomcat.<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpLast style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
-auto;margin-left:1.0in;mso-add-space:auto;text-indent:-.25in;line-height:normal;
-mso-list:l8 level2 lfo13;tab-stops:list 1.0in'><![if !supportLists]><span
-lang=EN-SG style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Wingdings;
-mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings'><span
-style='mso-list:Ignore'>&Oslash;<span style='font:7.0pt "Times New Roman"'>&nbsp;
-</span></span></span><![endif]><span lang=EN-SG>Database server is PostgreSQL.<o:p></o:p></span></p>
-
-<ul type=disc>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l3 level1 lfo11;tab-stops:list .5in'>The AWS EC2 dynamic
-     inventory creates groups in the format <span class=SpellE>tag_AnsibleGroup</span>_,
-     where group is replaced by the actual groups defined in the service during
-     provisioning: apps, <span class=SpellE>appdbs</span>, frontends, bastions<o:p></o:p></li>
-</ul>
-
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-margin-left:.25in;text-indent:-.25in;line-height:150%;mso-list:l0 level1 lfo6;
-tab-stops:list .5in'><![if !supportLists]><span style='font-size:10.0pt;
-mso-bidi-font-size:12.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>&middot;<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='mso-fareast-font-family:"Times New Roman"'>Administration
-server: </span><span style='mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New"'>bastion.93b1.example.opentlc.com</span><span
-style='mso-fareast-font-family:"Times New Roman"'>, <o:p></o:p></span></p>
-
-<p><span class=GramE><b style='mso-bidi-font-weight:normal'><span
-style='font-size:14.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
-minor-latin;mso-hansi-theme-font:minor-latin'>2.4 <span
-style='mso-spacerun:yes'>&nbsp;</span>Design</span></b></span><b
-style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;font-family:
+mso-outline-level:2'><b><span style='font-size:18.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:"Times New Roman";
+mso-hansi-theme-font:minor-latin'>Provision QA Environment (</span></b><b
+style='mso-bidi-font-weight:normal'><span style='font-size:18.0pt;font-family:
 "Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
-minor-latin'> Ansible Tower Workflow Job Template<o:p></o:p></span></b></p>
+minor-latin'>Smoke test included</span></b><b><span style='font-size:18.0pt;
+font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+"Times New Roman";mso-hansi-theme-font:minor-latin'>)<o:p></o:p></span></b></p>
 
 <ul type=disc>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l5 level1 lfo4;tab-stops:list .5in'><span style='mso-fareast-font-family:
-     "Times New Roman"'>Define a workflow to automate the process of
-     provisioning the QA and production environments<o:p></o:p></span></li>
- <ul type=circle>
-  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
-      auto;mso-list:l5 level2 lfo4;tab-stops:list 1.0in'><span
-      style='mso-fareast-font-family:"Times New Roman"'>Workflow needs to
-      include the deployment and testing of the three-tier application<o:p></o:p></span></li>
- </ul>
+     line-height:115%;mso-list:l1 level1 lfo1;tab-stops:list .5in'><span
+     class=SpellE><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+     minor-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
+     minor-latin;mso-bidi-font-family:"Courier New"'>Provision_OSP.yml</span></span><span
+     style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+     mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:minor-latin'><o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:115%;mso-list:l1 level1 lfo1;tab-stops:list .5in'><span
+     style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+     mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:minor-latin;
+     mso-bidi-font-family:"Courier New"'>Configure_3TA_OSP.yml</span><span
+     style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+     mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:minor-latin'>
+     (include smoke test task)<o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:115%;mso-list:l1 level1 lfo1;tab-stops:list .5in'><span
+     class=SpellE><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+     minor-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
+     minor-latin;mso-bidi-font-family:"Courier New"'>cleanup_OSP.yml</span></span><span
+     style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+     mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:minor-latin'>
+     (runs if other tasks fail, destroys OpenStack instances)<o:p></o:p></span></li>
 </ul>
 
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Outline<o:p></o:p></span></p>
-
-<ol start=1 type=1>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l7 level1 lfo5;tab-stops:list .5in'><span style='mso-fareast-font-family:
-     "Times New Roman"'>Deploy instances on OpenStack QA environment<o:p></o:p></span></li>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l7 level1 lfo5;tab-stops:list .5in'><span style='mso-fareast-font-family:
-     "Times New Roman"'>Configure instances on OpenStack QA environment (smoke
-     test)<o:p></o:p></span></li>
- <ol start=1 type=a>
-  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
-      auto;mso-list:l7 level2 lfo5;tab-stops:list 1.0in'><span
-      style='mso-fareast-font-family:"Times New Roman"'>Clean up if failed<o:p></o:p></span></li>
- </ol>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l7 level1 lfo5;tab-stops:list .5in'><span style='mso-fareast-font-family:
-     "Times New Roman"'>Deploy instances on AWS using </span><span
-     style='font-size:10.0pt;font-family:"Courier New";mso-fareast-font-family:
-     "Times New Roman"'>Order_SVC.sh</span><span style='mso-fareast-font-family:
-     "Times New Roman"'> script<o:p></o:p></span></li>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l7 level1 lfo5;tab-stops:list .5in'><span style='mso-fareast-font-family:
-     "Times New Roman"'>Configure instances on AWS production environment
-     (smoke test)<o:p></o:p></span></li>
- <ol start=1 type=a>
-  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
-      auto;mso-list:l7 level2 lfo5;tab-stops:list 1.0in'><span
-      style='mso-fareast-font-family:"Times New Roman"'>Clean up if failed<o:p></o:p></span></li>
- </ol>
-</ol>
-
-<p class=MsoNormal style='line-height:150%'><span style='mso-no-proof:yes'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='line-height:150%'><span style='mso-fareast-font-family:
-"Times New Roman";mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_2"
- o:spid="_x0000_i1025" type="#_x0000_t75" style='width:450.75pt;height:119.25pt;
- visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="README_files/image003.png" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img border=0 width=601 height=159
-src="README_files/image004.jpg" v:shapes="Picture_x0020_2"><![endif]></span><span
-style='mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='line-height:150%'><span style='mso-fareast-font-family:
-"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='line-height:150%'><span style='mso-fareast-font-family:
-"Times New Roman"'>Suggested script already in </span>committed to my <span
-class=GramE>repository :</span> <a href="https://github.com/immgcb/ansible-hw">https://github.com/immgcb/ansible-hw</a><span
-style='mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-outline-level:2'><b><span style='font-size:18.0pt;font-family:"Calibri",sans-serif;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:"Times New Roman";
+mso-hansi-theme-font:minor-latin'>Provision Production Environment (</span></b><b
+style='mso-bidi-font-weight:normal'><span style='font-size:18.0pt;font-family:
+"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
+minor-latin'>Smoke test included</span></b><b><span style='font-size:18.0pt;
+font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+"Times New Roman";mso-hansi-theme-font:minor-latin'>)<o:p></o:p></span></b></p>
 
 <ul type=disc>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     line-height:150%;mso-list:l4 level1 lfo2;tab-stops:list .5in'><code><span
-     style='mso-ansi-font-size:12.0pt;mso-bidi-font-size:12.0pt;line-height:
-     150%;font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
-     mso-hansi-theme-font:minor-latin'>Order_SVC.sh</span></code><span
-     style='mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></li>
+     line-height:150%;mso-list:l0 level1 lfo2;tab-stops:list .5in'><span
+     class=SpellE><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+     minor-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
+     minor-latin;mso-bidi-font-family:"Courier New"'>Provision_AWS.yml</span></span><span
+     style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+     mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:minor-latin'><o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:150%;mso-list:l0 level1 lfo2;tab-stops:list .5in'><span
+     style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+     mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:minor-latin;
+     mso-bidi-font-family:"Courier New"'>Configure_3TA_AWS.yml</span><span
+     style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+     mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:minor-latin'>
+     (include smoke test task)<o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:150%;mso-list:l0 level1 lfo2;tab-stops:list .5in'><span
+     class=SpellE><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+     minor-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
+     minor-latin;mso-bidi-font-family:"Courier New"'>cleanup_AWS.yml</span></span><span
+     style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+     mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:minor-latin'>
+     (runs if other tasks fail, destroys OpenStack instances)<o:p></o:p></span></li>
 </ul>
 
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:18.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
+minor-latin'>Design Ansible Tower Workflow Job Templates<o:p></o:p></span></b></p>
 
 </div>
 
