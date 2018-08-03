@@ -10,21 +10,29 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
 <link rel=File-List href="README_files/filelist.xml">
-<!--[if gte mso 9]><xml>
+<link rel=Edit-Time-Data href="README_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>MG, Chandra Babu</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>MG, Chandra Babu</o:LastAuthor>
-  <o:Revision>23</o:Revision>
-  <o:TotalTime>1629</o:TotalTime>
+  <o:Revision>24</o:Revision>
+  <o:TotalTime>1630</o:TotalTime>
   <o:Created>2018-07-30T09:36:00Z</o:Created>
-  <o:LastSaved>2018-08-01T07:48:00Z</o:LastSaved>
-  <o:Pages>1</o:Pages>
+  <o:LastSaved>2018-08-03T03:37:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
   <o:Words>118</o:Words>
-  <o:Characters>675</o:Characters>
+  <o:Characters>677</o:Characters>
   <o:Lines>5</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>792</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>794</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -36,6 +44,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Print</w:View>
+  <w:Zoom>120</w:Zoom>
   <w:SpellingState>Clean</w:SpellingState>
   <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
@@ -52,6 +61,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
    <w:BreakWrappedTables/>
    <w:SplitPgBreakAndParaMark/>
   </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
    <m:brkBin m:val="before"/>
@@ -656,10 +666,10 @@ xmlns="http://www.w3.org/TR/REC-html40">
 @font-face
 	{font-family:"Cambria Math";
 	panose-1:2 4 5 3 5 4 6 3 2 4;
-	mso-font-charset:0;
+	mso-font-charset:1;
 	mso-generic-font-family:roman;
 	mso-font-pitch:variable;
-	mso-font-signature:-536870145 1107305727 0 0 415 0;}
+	mso-font-signature:0 0 0 0 0 0;}
 @font-face
 	{font-family:Calibri;
 	panose-1:2 15 5 2 2 2 4 3 2 4;
@@ -687,8 +697,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:minor-fareast;}
 h2
-	{mso-style-priority:9;
-	mso-style-unhide:no;
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
 	mso-style-qformat:yes;
 	mso-style-link:"Heading 2 Char";
 	mso-margin-top-alt:auto;
@@ -699,6 +709,8 @@ h2
 	mso-outline-level:2;
 	font-size:18.0pt;
 	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
 	font-weight:bold;}
 h3
 	{mso-style-noshow:yes;
@@ -763,20 +775,9 @@ p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
 	font-family:"Segoe UI",sans-serif;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:minor-fareast;}
-p.msonormal0, li.msonormal0, div.msonormal0
-	{mso-style-name:msonormal;
-	mso-style-unhide:no;
-	mso-margin-top-alt:auto;
-	margin-right:0in;
-	mso-margin-bottom-alt:auto;
-	margin-left:0in;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	font-family:"Times New Roman",serif;
-	mso-fareast-font-family:"Times New Roman";
-	mso-fareast-theme-font:minor-fareast;}
 span.Heading2Char
 	{mso-style-name:"Heading 2 Char";
+	mso-style-noshow:yes;
 	mso-style-priority:9;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
@@ -784,21 +785,6 @@ span.Heading2Char
 	mso-ansi-font-size:18.0pt;
 	mso-bidi-font-size:18.0pt;
 	font-weight:bold;}
-span.BalloonTextChar
-	{mso-style-name:"Balloon Text Char";
-	mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:"Balloon Text";
-	mso-ansi-font-size:9.0pt;
-	mso-bidi-font-size:9.0pt;
-	font-family:"Segoe UI",sans-serif;
-	mso-ascii-font-family:"Segoe UI";
-	mso-fareast-font-family:"Times New Roman";
-	mso-fareast-theme-font:minor-fareast;
-	mso-hansi-font-family:"Segoe UI";
-	mso-bidi-font-family:"Segoe UI";}
 span.Heading3Char
 	{mso-style-name:"Heading 3 Char";
 	mso-style-noshow:yes;
@@ -820,6 +806,35 @@ span.Heading3Char
 	color:#1F3763;
 	mso-themecolor:accent1;
 	mso-themeshade:127;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Balloon Text";
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;
+	mso-ascii-font-family:"Segoe UI";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:"Segoe UI";
+	mso-bidi-font-family:"Segoe UI";}
 span.SpellE
 	{mso-style-name:"";
 	mso-spl-e:yes;}
@@ -839,8 +854,8 @@ div.WordSection1
 	{page:WordSection1;}
  /* List Definitions */
  @list l0
-	{mso-list-id:1574244424;
-	mso-list-template-ids:-1295644282;}
+	{mso-list-id:1077898396;
+	mso-list-template-ids:-910671960;}
 @list l0:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -851,72 +866,71 @@ div.WordSection1
 	font-family:Symbol;}
 @list l0:level2
 	{mso-level-number-format:bullet;
-	mso-level-text:o;
+	mso-level-text:\F0B7;
 	mso-level-tab-stop:1.0in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:"Courier New";
-	mso-bidi-font-family:"Times New Roman";}
+	font-family:Symbol;}
 @list l0:level3
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
+	mso-level-text:\F0B7;
 	mso-level-tab-stop:1.5in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
+	font-family:Symbol;}
 @list l0:level4
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
+	mso-level-text:\F0B7;
 	mso-level-tab-stop:2.0in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
+	font-family:Symbol;}
 @list l0:level5
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
+	mso-level-text:\F0B7;
 	mso-level-tab-stop:2.5in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
+	font-family:Symbol;}
 @list l0:level6
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
+	mso-level-text:\F0B7;
 	mso-level-tab-stop:3.0in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
+	font-family:Symbol;}
 @list l0:level7
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
+	mso-level-text:\F0B7;
 	mso-level-tab-stop:3.5in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
+	font-family:Symbol;}
 @list l0:level8
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
+	mso-level-text:\F0B7;
 	mso-level-tab-stop:4.0in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
+	font-family:Symbol;}
 @list l0:level9
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
+	mso-level-text:\F0B7;
 	mso-level-tab-stop:4.5in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
+	font-family:Symbol;}
 @list l1
-	{mso-list-id:2053384951;
-	mso-list-template-ids:-159752266;}
+	{mso-list-id:1315842137;
+	mso-list-template-ids:698901914;}
 @list l1:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -927,6 +941,81 @@ div.WordSection1
 	font-family:Symbol;}
 @list l1:level2
 	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2
+	{mso-list-id:1574244424;
+	mso-list-template-ids:-1295644282;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level2
+	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:1.0in;
 	mso-level-number-position:left;
@@ -934,7 +1023,7 @@ div.WordSection1
 	mso-ansi-font-size:10.0pt;
 	font-family:"Courier New";
 	mso-bidi-font-family:"Times New Roman";}
-@list l1:level3
+@list l2:level3
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:1.5in;
@@ -942,7 +1031,7 @@ div.WordSection1
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l1:level4
+@list l2:level4
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:2.0in;
@@ -950,7 +1039,7 @@ div.WordSection1
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l1:level5
+@list l2:level5
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:2.5in;
@@ -958,7 +1047,7 @@ div.WordSection1
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l1:level6
+@list l2:level6
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:3.0in;
@@ -966,7 +1055,7 @@ div.WordSection1
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l1:level7
+@list l2:level7
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:3.5in;
@@ -974,7 +1063,7 @@ div.WordSection1
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l1:level8
+@list l2:level8
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:4.0in;
@@ -982,7 +1071,83 @@ div.WordSection1
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l1:level9
+@list l2:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3
+	{mso-list-id:2053384951;
+	mso-list-template-ids:-159752266;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l3:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3:level9
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:4.5in;
@@ -1040,12 +1205,40 @@ repository - <a href="https://github.com/immgcb/ansible-hw">https://github.com/i
 
 <p><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
 mso-hansi-theme-font:minor-latin'>&#8226; Playbooks to deploy internal
-three-tier application &#8211; Based on <span class=SpellE>uur</span> 05 Cloud
-Infrastructure Solution Lab<o:p></o:p></span></p>
+three-tier application &#8211; Based on <span class=SpellE>uur</span> 05 Cloud Infrastructure
+Solution Lab<o:p></o:p></span></p>
 
 <p><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
 mso-hansi-theme-font:minor-latin'>&#8226; Install HA Ansible Tower &#8211;
 Deployed this based on our - 06 01 HA Tower Deployment Solution Lab<o:p></o:p></span></p>
+
+<p><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
+ coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
+ filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="Picture_x0020_10" o:spid="_x0000_i1025" type="#_x0000_t75"
+ style='width:437.25pt;height:237pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="README_files/image001.png" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=583 height=316
+src="README_files/image002.jpg" v:shapes="Picture_x0020_10"><![endif]></span><span
+style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+mso-hansi-theme-font:minor-latin'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 mso-outline-level:2'><b><span style='font-size:18.0pt;font-family:"Calibri",sans-serif;
@@ -1059,14 +1252,14 @@ font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-fo
 
 <ul type=disc>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     line-height:115%;mso-list:l1 level1 lfo1;tab-stops:list .5in'><span
+     line-height:115%;mso-list:l3 level1 lfo3;tab-stops:list .5in'><span
      class=SpellE><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:
      minor-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
      minor-latin;mso-bidi-font-family:"Courier New"'>Provision_OSP.yml</span></span><span
      style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
      mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:minor-latin'><o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     line-height:115%;mso-list:l1 level1 lfo1;tab-stops:list .5in'><span
+     line-height:115%;mso-list:l3 level1 lfo3;tab-stops:list .5in'><span
      style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
      mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:minor-latin;
      mso-bidi-font-family:"Courier New"'>Configure_3TA_OSP.yml</span><span
@@ -1074,7 +1267,7 @@ font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-fo
      mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:minor-latin'>
      (include smoke test task)<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     line-height:115%;mso-list:l1 level1 lfo1;tab-stops:list .5in'><span
+     line-height:115%;mso-list:l3 level1 lfo3;tab-stops:list .5in'><span
      class=SpellE><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:
      minor-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
      minor-latin;mso-bidi-font-family:"Courier New"'>cleanup_OSP.yml</span></span><span
@@ -1095,14 +1288,14 @@ font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-fo
 
 <ul type=disc>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     line-height:150%;mso-list:l0 level1 lfo2;tab-stops:list .5in'><span
+     line-height:150%;mso-list:l2 level1 lfo6;tab-stops:list .5in'><span
      class=SpellE><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:
      minor-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
      minor-latin;mso-bidi-font-family:"Courier New"'>Provision_AWS.yml</span></span><span
      style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
      mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:minor-latin'><o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     line-height:150%;mso-list:l0 level1 lfo2;tab-stops:list .5in'><span
+     line-height:150%;mso-list:l2 level1 lfo6;tab-stops:list .5in'><span
      style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
      mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:minor-latin;
      mso-bidi-font-family:"Courier New"'>Configure_3TA_AWS.yml</span><span
@@ -1110,7 +1303,7 @@ font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-fo
      mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:minor-latin'>
      (include smoke test task)<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     line-height:150%;mso-list:l0 level1 lfo2;tab-stops:list .5in'><span
+     line-height:150%;mso-list:l2 level1 lfo6;tab-stops:list .5in'><span
      class=SpellE><span style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:
      minor-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
      minor-latin;mso-bidi-font-family:"Courier New"'>cleanup_AWS.yml</span></span><span
